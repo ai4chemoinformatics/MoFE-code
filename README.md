@@ -1,4 +1,5 @@
-Chemical Foundation Models
+Mixture of Functional Expert Model
+
 This module is designed for both unimodal and multimodal chemical foundation models. The core code has been uploaded, and some additional details are still being refined. Stay tuned for updates!
 
 Coming Soon!
